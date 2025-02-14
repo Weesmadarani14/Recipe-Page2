@@ -1,4 +1,4 @@
-#Recipe-Page2
+# Recipe-Page2
 
 A simple recipe page built using Bootstrap for the very first time. My goal was to use minimal CSS while making the page look clean. 
 
