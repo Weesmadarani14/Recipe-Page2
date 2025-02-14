@@ -10,3 +10,9 @@
     margin: 5% auto;
     border-radius: 20px;
 }
+
+h1, h3 {
+    display: flex;
+    justify-content: center;
+}
+
