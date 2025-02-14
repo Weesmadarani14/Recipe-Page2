@@ -12,5 +12,6 @@ A simple recipe page built using Bootstrap for the very first time. My goal was 
 - Bootstrap for layout and styling
 - Minimal CSS
 
-Screenshot 
+# Screenshot 
+
     
