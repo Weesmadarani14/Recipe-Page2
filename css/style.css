@@ -16,3 +16,9 @@ h1, h3 {
     justify-content: center;
 }
 
+img {
+    width: 100%;
+    object-fit: contain;
+    display: block;
+    margin: auto;
+}
