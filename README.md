@@ -13,5 +13,5 @@ A simple recipe page built using Bootstrap for the very first time. My goal was 
 - Minimal CSS
 
 # Screenshot 
-
+<img src="RecipePage.png">
     
